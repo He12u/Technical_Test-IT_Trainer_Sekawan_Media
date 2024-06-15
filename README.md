@@ -15,5 +15,25 @@ Panduan penggunaan aplikasi :
 
 untuk melakukan uji coba daftar user dapat diakses melalui folder server -> data -> user.json
 
+## List of Available Endpoints :
+
+- 'POST /login'
+
+routes below need authentication :
+
+- 'GET /bookings'
+- 'GET /vehicles'
+- 'POST /vehicles/add'
+- 'GET /employes'
+- 'GET /employes/approvers'
+- 'GET /drivers'
+
+routes below need authorization :
+
+- 'POST /bookings'
+- 'PUT /bookings/:id'
+
+&nbsp;
+
 
    
