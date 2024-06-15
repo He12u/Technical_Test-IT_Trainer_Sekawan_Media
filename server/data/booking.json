@@ -1,0 +1,20 @@
+[
+  {
+    "employeeId": 4,
+    "driverId": 1,
+    "vehicleId": 1,
+    "approverId": 5,
+    "status": "Pending",
+    "bookingDate": "2024-06-15",
+    "returnDate": "2024-06-16"
+  },
+  {
+    "employeeId": 5,
+    "driverId": 2,
+    "vehicleId": 3,
+    "approverId": 5,
+    "status": "Approved",
+    "bookingDate": "2024-06-10",
+    "returnDate": "2024-06-11"
+  }
+]

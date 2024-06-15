@@ -1,0 +1,37 @@
+[
+  {
+    "username": "admin",
+    "password": "admin_password",
+    "role": "admin",
+    "fullName": "admin satu",
+    "department": "pool"
+  },
+  {
+    "username": "approver1",
+    "password": "approver1_password",
+    "role": "approver",
+    "fullName": "approver satu",
+    "department": "pelayanan"
+  },
+  {
+    "username": "approver2",
+    "password": "approver2_password",
+    "role": "approver",
+    "fullName": "approver dua",
+    "department": "keuangan"
+  },
+  {
+    "username": "approver3",
+    "password": "approver3_password",
+    "role": "approver",
+    "fullName": "approver tiga",
+    "department": "marketing"
+  },
+  {
+    "username": "approver4",
+    "password": "approver4_password",
+    "role": "approver",
+    "fullName": "approver empat",
+    "department": "operator"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fullName": "employee satu",
+    "department": "pelayanan"
+  },
+  {
+    "fullName": "employee dua",
+    "department": "keuangan"
+  },
+  {
+    "fullName": "employee tiga",
+    "department": "marketing"
+  },
+  {
+    "fullName": "employee empat",
+    "department": "operator"
+  },
+  {
+    "fullName": "employee lima",
+    "department": "operator"
+  }
+]

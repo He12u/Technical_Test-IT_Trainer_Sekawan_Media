@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Toyota Hilux",
+    "numberPlate": "PLAT 11",
+    "status": "sewa",
+    "type": "Angkutan Barang",
+    "fuelConsumption": 12
+  },
+  {
+    "name": "Mitsubishi L300",
+    "numberPlate": "PLAT 12",
+    "status": "sewa",
+    "type": "Angkutan Barang",
+    "fuelConsumption": 10
+  },
+  {
+    "name": "Isuzu Panther",
+    "numberPlate": "PLAT 13",
+    "status": "sewa",
+    "type": "Angkutan Orang",
+    "fuelConsumption": 14
+  },
+  {
+    "name": "Toyota Avanza",
+    "numberPlate": "PLAT 14",
+    "status": "milik sendiri",
+    "type": "Angkutan Orang",
+    "fuelConsumption": 13
+  },
+  {
+    "name": "Suzuki Carry",
+    "numberPlate": "PLAT 15",
+    "status": "milik sendiri",
+    "type": "Angkutan Barang",
+    "fuelConsumption": 11
+  },
+  {
+    "name": "Nissan X-Trail",
+    "numberPlate": "PLAT 16",
+    "status": "milik sendiri",
+    "type": "Angkutan Orang",
+    "fuelConsumption": 9
+  }
+]
