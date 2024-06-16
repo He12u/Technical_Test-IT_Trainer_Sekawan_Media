@@ -15,10 +15,10 @@
    git clone https://github.com/He12u/Technical_Test-IT_Trainer_Sekawan_Media.git
    ```
 2. pada folder server install depedencies yang diperlukan
-```
-cd server
-npm i
-```
+   ```
+   cd server
+   npm i
+   ```
 3. buat file .env sesuai dengan env_template yang ada pada folder server
 4. setup database
    ```
