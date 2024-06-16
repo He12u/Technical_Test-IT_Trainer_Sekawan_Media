@@ -1,10 +1,15 @@
-Tech Stack yang digunakan
-Server :
-PostgreSQL, Expressjs, Nodejs
-Client :
-React, Axios, bootstrap
+## Tech Stack
 
-Panduan penggunaan aplikasi :
+### Server :
+- PostgreSQL
+- Expressjs
+- Nodejs
+### Client :
+- React
+- Axios
+- bootstrap
+
+### Panduan penggunaan aplikasi :
 1. lakukan clone github melalui link https://github.com/He12u/Technical_Test-IT_Trainer_Sekawan_Media.git
 2. pada folder server install depedencies yang diperlukan melalui terminal dengan perintah "npm i"
 3. buat file .env sesuai dengan env_template yang ada pada folder server
