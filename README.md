@@ -1,3 +1,7 @@
+## Video Demo untuk persiapan
+
+Video Demo untuk persiapan [Video Demo](https://www.loom.com/share/3a662c31f8f54e9b97cce0e726043f9d?sid=b3d8d2bb-54c0-4b0a-a951-262b30572b4f).
+
 ## Tech Stack
 
 ### Server :
