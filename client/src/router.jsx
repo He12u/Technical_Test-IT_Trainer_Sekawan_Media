@@ -8,7 +8,7 @@ import App from "./App";
 
 function checkToken() {
   if (!localStorage.getItem("access_token")) {
-    return redirect("/");
+    return redirect("/login");
   }
   return null;
 }
