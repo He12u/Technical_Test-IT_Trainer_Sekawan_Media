@@ -87,12 +87,16 @@ const ApprovalPage = () => {
                 <td>{new Date(booking.returnDate).toLocaleDateString()}</td>
                 <td>{booking.status}</td>
                 <td>
-                  <Button
-                    variant="primary"
-                    onClick={() => approveBooking(booking.id)}
-                  >
-                    Approve
-                  </Button>
+                  {booking.status === "Approved" ? (
+                    ""
+                  ) : (
+                    <Button
+                      variant="primary"
+                      onClick={() => approveBooking(booking.id)}
+                    >
+                      Approve
+                    </Button>
+                  )}
                 </td>
               </tr>
             ))}
